@@ -1,4 +1,4 @@
-n this project, we tackled a real-world problem faced by farmers—optimizing land allocation for planting wheat, corn, and sugar beets to maximize profitability under the unpredictable influence of weather conditions. To address this, we developed a Stochastic Linear Programming model that captures the uncertainties in crop yields due to varying environmental factors.
+In this project, we tackled a real-world problem faced by farmers—optimizing land allocation for planting wheat, corn, and sugar beets to maximize profitability under the unpredictable influence of weather conditions. To address this, we developed a Stochastic Linear Programming model that captures the uncertainties in crop yields due to varying environmental factors.
 
 Our approach involved generating diverse scenarios representing potential changes in weather patterns, which directly affect crop yields. These scenarios ranged from optimal to less favorable conditions, altering yields by ±20% and more, to simulate real-world fluctuations. This technique allowed us to robustly test our models against a spectrum of possible agricultural outcomes.
 
